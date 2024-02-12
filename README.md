@@ -1,2 +1,9 @@
-# leadstracker
-lead tracker is a chrome extension that allow user to save the reference they might later.
+# coc8640b4ab7ea074c56f6bdc
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
+
